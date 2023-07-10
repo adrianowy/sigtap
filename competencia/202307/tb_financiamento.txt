@@ -1,0 +1,7 @@
+01Atenção Básica (PAB)                                                                                202307
+02Assistência Farmacêutica                                                                            202307
+04Fundo de Ações Estratégicas e Compensações (FAEC)                                                   202307
+05Incentivo - MAC                                                                                     202307
+06Média e Alta Complexidade (MAC)                                                                     202307
+07Vigilância em Saúde                                                                                 202307
+08Gestão do SUS                                                                                       202307

@@ -1,0 +1,39 @@
+001Inclui valor da anestesia                                                                           202307
+003Admite longa permanência                                                                            202307
+004Admite permanência à maior                                                                          202307
+005Admite liberação de quantidade na AIH                                                               202307
+006CNRAC                                                                                               202307
+007Permanência por dia                                                                                 202307
+008Não permite mudança de procedimento                                                                 202307
+009Exige CNS                                                                                           202307
+011Permite alta direta de UTI                                                                          202307
+012Exige idade no BPA (Consolidado)                                                                    202307
+013Verifica habilitação de terceiro                                                                    202307
+014Admite APAC de Continuidade                                                                         202307
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           202307
+017Exige Informação da OPM                                                                             202307
+020Monitoramento do CEO                                                                                202307
+021Não Exige CBO                                                                                       202307
+022Exige registro na APAC de dados complementares                                                      202307
+023Registro no SISCOLO                                                                                 202307
+024Registro no SISPRENATAL                                                                             202307
+025Registro no SISMAMA                                                                                 202307
+026Registro de Procedimentos Secundário Compativel                                                     202307
+029Admite período maior para a apresentação                                                            202307
+033APAC com validade fixa de 03 competências                                                           202307
+034Não exige CNS                                                                                       202307
+036Exige Autorização                                                                                   202307
+037Exige CNPJ do Fornecedor                                                                            202307
+038Exige Serviço/Classificação                                                                         202307
+040Registro no SISCAN                                                                                  202307
+041APAC com validade fixa de 12 competências                                                           202307
+042Não Admite Liberação de Crítica de Idade                                                            202307
+043Exige registro de CID de causas associadas                                                          202307
+044Cirurgias Eletivas                                                                                  202307
+045Diárias de Leitos Complementares                                                                    202307
+046Tratamento Ambulatorial de Doenças Crônicas                                                         202307
+047Autorização com limite máximo de 6 meses.                                                           202307
+048Exige CID                                                                                           202307
+049Permite Informação de Equipe Cirúrgica                                                              202307
+050Permite o Registro de Informações do CNS do(s) Recém-Nascido(s)                                     202307
+051Programa Nacional de Redução das Filas de Procedimentos Eletivos.                                   202307

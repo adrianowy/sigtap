@@ -1,0 +1,73 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     202307
+101Estratégia de Saúde da Família                                                                                          202307
+102Estratégias de Agentes Comunitário de Saúde                                                                             202307
+103Serviço de Atendimento Móvel de Urgências                                                                               202307
+104Regulação Assistêncial dos Serviços de Saúde                                                                            202307
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         202307
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       202307
+107Serviço de Atenção a Saúde Auditiva                                                                                     202307
+108Serviço de Atenção a Saúde do Trabalhador                                                                               202307
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       202307
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  202307
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          202307
+112Serviço de Atenção ao Pré-Natal e Nascimento                                                                            202307
+113Serviço de Atenção Domiciliar                                                                                           202307
+114Serviço de Atenção em Saúde Bucal                                                                                       202307
+115Serviço de Atenção Psicossocial                                                                                         202307
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           202307
+117Serviço de Cirurgia Reparadora                                                                                          202307
+118Serviço de Cirurgia Torácica                                                                                            202307
+119Serviço de Controle de Tabagismo                                                                                        202307
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       202307
+121Diagnóstico por Imagem                                                                                                  202307
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   202307
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       202307
+124Serviço de Endocrinologia                                                                                               202307
+125Serviço de Farmácia                                                                                                     202307
+126Serviço de Fisioterapia                                                                                                 202307
+127Serviço de Atenção à Obesidade                                                                                          202307
+128Serviço de Hemoterapia                                                                                                  202307
+129Servico de Laboratório de Histocompatibilidade                                                                          202307
+130Atenção à Doença Renal Crônica                                                                                          202307
+131Serviço de Oftalmologia                                                                                                 202307
+132Serviço de Oncologia                                                                                                    202307
+133Serviço de Pneumologia                                                                                                  202307
+134Serviço de Práticas Integrativas e Complementares                                                                       202307
+135Serviço de Reabilitação                                                                                                 202307
+136Serviço de Suporte Nutricional                                                                                          202307
+137Serviço de Telemedicina                                                                                                 202307
+138Serviço de Traumato-Ortopedia                                                                                           202307
+139Serviço de Triagem Neonatal                                                                                             202307
+140Serviço de Urgência e Emergência                                                                                        202307
+141Serviço de Vigilância em Saúde                                                                                          202307
+142Serviço de Endoscopia                                                                                                   202307
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 202307
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         202307
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          202307
+146Serviço de Videolaparoscopia                                                                                            202307
+147Serviço de Apoio a Saúde da Família                                                                                     202307
+148Hospital-Dia                                                                                                            202307
+149Transplante                                                                                                             202307
+150Cirurgia Vascular                                                                                                       202307
+151Medicina Nuclear                                                                                                        202307
+152Atenção à Saúde da População Indígena                                                                                   202307
+153Atenção Especializada no Processo Transexualizador                                                                      202307
+154Serviço de Banco de Tecidos                                                                                             202307
+155Serviço de Traumatologia  Ortopedia                                                                                     202307
+156Serviço de Atenção á Saúde das Pessoas Ostomizadas                                                                      202307
+157Serviço de Laboratorio de Protese Dentaria                                                                              202307
+158Serviço de Atenção Integral em Hanseniase                                                                               202307
+159Atenção Primária                                                                                                        202307
+160Teleconsultoria                                                                                                         202307
+161Consultório na Rua                                                                                                      202307
+162Serviço de Terapia Intensiva                                                                                            202307
+163Serviço de Cuidados Intermediários                                                                                      202307
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       202307
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      202307
+166Serviço de  Análise Laboratorial  de Produtos Sujeitos á  Vigilância Sanitária                                          202307
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  202307
+168Atenção Às Pessoas com Doenças Raras                                                                                    202307
+169Serviço de Atenção em Urologia                                                                                          202307
+170Comissões e Comitês                                                                                                     202307
+173Logística de Imunobiológicos                                                                                            202307
+174Imunização                                                                                                              202307

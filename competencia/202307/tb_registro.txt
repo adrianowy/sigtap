@@ -1,0 +1,10 @@
+01BPA (Consolidado)                                 202307
+02BPA (Individualizado)                             202307
+03AIH (Proc. Principal)                             202307
+04AIH (Proc. Especial)                              202307
+05AIH (Proc. Secundário)                            202307
+06APAC (Proc. Principal)                            202307
+07APAC (Proc. Secundário)                           202307
+08RAAS (Atenção Domiciliar)                         202307
+09RAAS (Atenção Psicossocial)                       202307
+10e-SUS APS (Atenção Primária à Saúde)              202307
