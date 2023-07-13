@@ -1,39 +1,51 @@
 var fs = require("fs");
-const { procedimentos, cid, rl_procedimentos_cid } = require("./layout_files");
 
+// add here the competence folder name
 const competencia = "202307"
-const file = 'tb_procedimento2';
+
+// add here the list of files to be converter
+const datasetList = ['tb_procedimento', 'tb_cid', 'rl_procedimento_cid'];
 
 try {
-    var data = fs.readFileSync(
-      `./../competencia/${competencia}/${file}.txt`,
-      "utf8"
-    );
-    var layouts = [...procedimentos];
-    var lines = data.toString().split('\r\n');
+  for (const dataset of datasetList) {
+      const data = fs.readFileSync(
+        `./../competencia/${competencia}/${dataset}.txt`,
+        "latin1"
+      );
 
-    var result = [];
-    
-    lines.forEach((line, i) => {
+      const layout = fs.readFileSync(
+        `./../competencia/${competencia}/${dataset}_layout.txt`,
+        "latin1"
+      );
 
+      const parseLayout = layout.toString().split("\r\n").slice(1, -1);
+
+      const parseData = data.toString().split("\r\n").slice(0, -1);
+
+      const resultJson = parseData.map((line, i) => {
         let obj = {};
 
-        layouts.forEach(layout => {
-            const [coluna, tamanho, inicio, fim, tipo] = layout.split(',');
+        parseLayout.forEach((layout) => {
+          const [coluna, tamanho, inicio, fim, tipo] = layout.split(",");
 
-            obj = {
-              ...obj,
-              [coluna]: line.substr(inicio-1, tamanho).trim(),
-            };
-        })
+          obj = {
+            ...obj,
+            [coluna]: line.substr(inicio - 1, tamanho).trim(),
+          };
+        });
 
-        result.push(obj);
-    });
+        return obj;
+      });
 
-    fs.writeFile(`./generate/${file}.json`, JSON.stringify(result), (err) => {
-      if (err) console.error(err);
-      else console.log("Data written to file successfully.");
-    });
+      fs.writeFile(
+        `./generate/${dataset}.json`,
+        JSON.stringify(resultJson),
+        (err) => {
+          if (err) console.error(err);
+          else console.log("Data written to file successfully.");
+        }
+      );
+    }
 
 } catch (e) {
   console.log("Error:", e.stack);
