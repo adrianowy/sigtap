@@ -1,4 +1,4 @@
-/parsefiles/generated/
+/parsefiles/generated/*.json
 
 # Logs
 logs
